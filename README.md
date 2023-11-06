@@ -56,3 +56,5 @@ Contributions are welcome! If you'd like to enhance this project or fix any issu
    ```
 
 5. Create a pull request on the main repository's `main` branch.
+
+Feel free to reach out if you have any questions or feedback! We hope you find this project useful and enjoy using it for your cafe website.
